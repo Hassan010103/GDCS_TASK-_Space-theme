@@ -1,6 +1,7 @@
 # Space-Themed Layout Project
 
 ## Overview
+Tried to Keep the layout same as mentioned in the task,
 This project features a visually appealing, responsive web layout showcasing the planets in our solar system with unique hover and transition effects.
 
 ## Technologies Used
