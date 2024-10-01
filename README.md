@@ -18,7 +18,6 @@ This project features a visually appealing, responsive web layout showcasing the
 - `styles.css`: The CSS file defining styles, hover effects, and transitions.
 
 
-"C:\Users\shams\OneDrive\Pictures\Screenshots\Screenshot 2024-10-01 181447.png"
 ## How to Use
 1. Clone this repository or download the files.
 2. Open `index.html` in your preferred web browser to view the layout.
