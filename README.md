@@ -17,8 +17,6 @@ This project features a visually appealing, responsive web layout showcasing the
 - `index.html`: The main HTML file containing the layout and content for the planets.
 - `styles.css`: The CSS file defining styles, hover effects, and transitions.
 
-## Screenshots
-Here are some screenshots of the project:
 
 "C:\Users\shams\OneDrive\Pictures\Screenshots\Screenshot 2024-10-01 181447.png"
 ## How to Use
